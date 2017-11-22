@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+}
+tr td{
+    border: 5px solid aqua;
+    padding: 7px;
+}
+td{
+    background-color: bisque;
+    border: 2px solid black;
+}
+.line-two{
+    background-color: beige;
+}
